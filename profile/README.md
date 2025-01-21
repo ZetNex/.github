@@ -13,7 +13,7 @@ Although our projects are primarily private (about 9.8 times out of 10!), we enc
 ## Join Our Discord
 Stay updated with the latest news, announcements, and discussions by joining our official Discord server:
 
-[![Discord](https://img.shields.io/discord/SU3PkqdTFN?label=Join%20Us&logo=discord&color=7289DA)](https://discord.gg/SU3PkqdTFN)
+<a href="https://discord.gg/SU3PkqdTFN"><img src="https://img.shields.io/discord/373199722573201408?label=discord&color=7289DA&logo=discord" alt="Discord" /></a>
 
 ## Contact Us
 For inquiries, collaboration opportunities, or general questions, reach out to us via our Discord server.
