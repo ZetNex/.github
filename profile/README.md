@@ -76,7 +76,7 @@ and we will try to provide you with a new invite link as soon as possible and al
 
 ----------------------
 
-## 📌 Roadmap — What is Next?
+## 📌 Roadmap - What is Next?
 
 > [!IMPORTANT]
 > 🔔 **Updates may not always be reflected here.
@@ -84,15 +84,15 @@ and we will try to provide you with a new invite link as soon as possible and al
 
 
 ### **Phase 1: Foundation (✅ Completed)**
-- [x] **Plans** — Infrastructure design, server logic, architecture planning.
-- [x] **Network Ownership** — Secure Zetnex domains, server setup.
-- [x] **Team Acquisition** — Hire developers, builders, and designers.
-- [x] **Presence Development** — Establish Discord server, and website.
+- [x] **Plans** - Infrastructure design, server logic, architecture planning.
+- [x] **Network Ownership** - Secure Zetnex domains, server setup.
+- [x] **Team Acquisition** - Hire developers, builders, and designers.
+- [x] **Presence Development** - Establish Discord server, and website.
 
-### **Phase 2: Development (🚧 On—Going)**
-- [x] **Pre-Alpha Development** — Implement proxy, internal queue systems, and basic network handling.
-- [x] **Internal Systems** — Setting up ranks, tags, permissions, and player management.
-- [x] **Basic Space** — Develop the main lobby, basic game modes, and elements.
+### **Phase 2: Development (🚧 On-Going)**
+- [x] **Pre-Alpha Development** - Implement proxy, internal queue systems, and basic network handling.
+- [x] **Internal Systems** - Setting up ranks, tags, permissions, and player management.
+- [x] **Basic Space** - Develop the main lobby, basic game modes, and elements.
 - [ ] **Optimization Improvements**
     - [ ] Enhance proxy performance.
     - [x] Implement multi-version support.
@@ -102,7 +102,7 @@ and we will try to provide you with a new invite link as soon as possible and al
     - [ ] Introduce new gameplay items and mechanisms.
 - [ ] Implement custom server automations.
 
-### **Phase 3: Pre—Launch (⭕ Upcoming)**
+### **Phase 3: Pre-Launch (⭕ Upcoming)**
 - [ ] **Marketing**
     - [ ] Creation of Social media networks.
     - [ ] Promotions with YouTubers, Streamers, and Influencers.
@@ -118,10 +118,10 @@ and we will try to provide you with a new invite link as soon as possible and al
 - [ ] **Checking for Future In-Stability Fixes**
     - [ ] Implement better hardware based on the community response.
     - [ ] Implement software updates to ensure automation works as expected
-- [ ] **Official Public Release — Version 1.0.2 MASTER**
+- [ ] **Official Public Release - Version 1.0.2 MASTER**
 
-### **Phase 4: Post—Launch (⭕ Upcoming)** 
-- [ ] **Basics — 1-3 Months**
+### **Phase 4: Post-Launch (⭕ Upcoming)** 
+- [ ] **Basics - 1-3 Months**
     - [ ] **Perform a ton of community events.**
     - [ ] **Implement regular updates.**
     - [ ] **Implement bug fixes and certain improvements.**
@@ -139,12 +139,12 @@ server management, potential improvements, participating in giveaways, and more.
 
 We are currently looking for the following positions:
 
-1. UI/UX Designer — Website, In-Game Items, Catalogs, Assets.
-2. Builder — In-Game Builds, Maps, Structures.
-3. Developer — Python, C++, PHP, Web, Pocketmine-MP, Poggit.
-4. Moderator — Discord, In-Game, Forums.
-5. Community Manager — Social Media, Forums, Discord.
-6. Supervisors — In-Game, Discord, Forums.
+1. UI/UX Designer - Website, In-Game Items, Catalogs, Assets.
+2. Builder - In-Game Builds, Maps, Structures.
+3. Developer - Python, C++, PHP, Web, Pocketmine-MP, Poggit.
+4. Moderator - Discord, In-Game, Forums.
+5. Community Manager - Social Media, Forums, Discord.
+6. Supervisors - In-Game, Discord, Forums.
 
 Any enquiry regarding the recruitment can be done through the discord server.
 
@@ -154,10 +154,10 @@ Any enquiry regarding the recruitment can be done through the discord server.
 We are accepting any of the following content creators to present our server 
  on their social media platforms in the future:
 
-1. YouTubers — At least 500 Subscribers.
-2. Twitch Streamers — At least 500 Followers.
-3. Instagram Influencers — At least 750 Followers.
-4. Twitter Influencers — At least 500 Followers.
-5. TikTok Influencers — At least 1000 Followers.
+1. YouTubers - At least 500 Subscribers.
+2. Twitch Streamers - At least 500 Followers.
+3. Instagram Influencers - At least 750 Followers.
+4. Twitter Influencers - At least 500 Followers.
+5. TikTok Influencers - At least 1000 Followers.
 
 Any enquiry regarding the collaborations can be done through the discord server as well.
