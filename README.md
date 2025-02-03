@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/zetnex">
-    <img src="./static/logo.png" alt="Zetnex Logo" height="500" width="500">
+    <img src="/static/logo.png" alt="Zetnex Logo" height="500" width="500">
   </a>
 </p>
 <p align="center">
