@@ -43,7 +43,7 @@ Please join our discord server for daily updates.
 
 ----------------------
 
-## 📄 Frequently Asked Questions
+## Frequently Asked Questions
 
 ### 1. Who are we? What are we doing?
 - We are just a group of passionate developers, builders, and designers who are working on building a Minecraft server,
@@ -76,7 +76,7 @@ and we will try to provide you with a new invite link as soon as possible and al
 
 ----------------------
 
-## 📌 Roadmap - What is Next?
+## Roadmap - What is Next?
 
 > [!IMPORTANT]
 > Updates may not always be reflected here.
@@ -135,7 +135,7 @@ server management, potential improvements, participating in giveaways, and more.
 
 ----------------------
 
-## ✨ Recruitment
+## Recruitment
 
 We are currently looking for the following positions:
 
