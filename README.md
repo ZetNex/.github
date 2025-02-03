@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/zetnex">
-    <img src="/static/logo.png" alt="Zetnex Logo" height="500" width="500">
+    <img src="/static/logo.png" alt="Zetnex Logo" style="max-width:100%; height:auto;">
   </a>
 </p>
 <p align="center">
@@ -79,17 +79,17 @@ and we will try to provide you with a new invite link as soon as possible and al
 ## 📌 Roadmap - What is Next?
 
 > [!IMPORTANT]
-> 🔔 **Updates may not always be reflected here.
-> For real-time updates, please join our Discord server through the badge above.**
+> Updates may not always be reflected here.
+> For real-time updates, please join our Discord server through the badge above.
 
 
-### **Phase 1: Foundation (✅ Completed)**
+### Phase 1: Foundation (Completed)
 - [x] **Plans** - Infrastructure design, server logic, architecture planning.
 - [x] **Network Ownership** - Secure Zetnex domains, server setup.
 - [x] **Team Acquisition** - Hire developers, builders, and designers.
 - [x] **Presence Development** - Establish Discord server, and website.
 
-### **Phase 2: Development (🚧 On-Going)**
+### Phase 2: Development (On-Going)
 - [x] **Pre-Alpha Development** - Implement proxy, internal queue systems, and basic network handling.
 - [x] **Internal Systems** - Setting up ranks, tags, permissions, and player management.
 - [x] **Basic Space** - Develop the main lobby, basic game modes, and elements.
@@ -102,7 +102,7 @@ and we will try to provide you with a new invite link as soon as possible and al
     - [ ] Introduce new gameplay items and mechanisms.
 - [ ] Implement custom server automations.
 
-### **Phase 3: Pre-Launch (⭕ Upcoming)**
+### Phase 3: Pre-Launch (Upcoming)
 - [ ] **Marketing**
     - [ ] Creation of Social media networks.
     - [ ] Promotions with YouTubers, Streamers, and Influencers.
@@ -120,7 +120,7 @@ and we will try to provide you with a new invite link as soon as possible and al
     - [ ] Implement software updates to ensure automation works as expected
 - [ ] **Official Public Release - Version 1.0.2 MASTER**
 
-### **Phase 4: Post-Launch (⭕ Upcoming)** 
+### Phase 4: Post-Launch (Upcoming)*
 - [ ] **Basics - 1-3 Months**
     - [ ] **Perform a ton of community events.**
     - [ ] **Implement regular updates.**
