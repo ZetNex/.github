@@ -39,7 +39,7 @@
     <img src="https://img.shields.io/badge/Zetnex-Dicussions-white?style=flat&color=%23cb553f&logo=linuxcontainers&logoColor=green&link=https%3A%2F%2Fgithub.com%2Forgs%2Fzetnex%2Fdiscussions" alt="Zetnex Discussions">
   </a>  
   <a href="https://github.com/zetnex#-roadmap---whats-next" target="_blank">
-    <img src="https://img.shields.io/badge/Zetnex-Roadmap-white?logo=roadmapdotsh&logoColor=orange&link=https%3A%2F%2Fgithub.com%2Fzetnex%23-roadmap---whats--next" alt="Zetnex Roadmap">
+    <img src="https://img.shields.io/badge/Zetnex-Roadmap-white?logo=roadmapdotsh&logoColor=orange&link=https%3A%2F%2Fgithub.com%2Fzetnex%23-roadmap---whats-next" alt="Zetnex Roadmap">
   </a>
 </p>
 
@@ -47,7 +47,7 @@
 
 <p align="center">
 Welcome to the official GitHub page for Zetnex Minecraft Bedrock Server. We are pleased to have you here.
-Zetnex is currently at **pre-alpha** stage of development; that means you would not be able to see much on out GitHub 
+Zetnex is currently at pre-alpha stage of development; that means you would not be able to see much on out GitHub 
 page yet. However, we are working hard to bring you the best experience in the future, please stay tuned. For current roadmap of
 development, please <a href="https://github.com/zetnex#-roadmap---whats-next">click here</a>. You can also join our discord.
 </p>
@@ -60,17 +60,9 @@ development, please <a href="https://github.com/zetnex#-roadmap---whats-next">cl
 > These are sneak peaks allocated by our staff members as of 04/02/2025. These might not be the latest sneak peaks of our server.
 > To get the latest sneak peaks, please join our discord server.
 
-<div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 10px; text-align: center;">
-  <a href="https://github.com/zetnex" style="flex: 1 1 48%; max-width: 48%;">
-    <img src="../static/sneak_peak_car_map.png" alt="Zetnex Sneak Peak 1" style="max-width: 100%; height: auto;">
-  </a>
-  <a href="https://github.com/zetnex" style="flex: 1 1 48%; max-width: 48%;">
-    <img src="../static/sneak_peak_classroom.png" alt="Zetnex Sneak Peak 3" style="max-width: 100%; height: auto;">
-  </a>
-  <a href="https://github.com/zetnex" style="flex: 1 1 50%; max-width: 100%;">
-    <img src="../static/sneak_peak_monument.png" alt="Zetnex Sneak Peak 4" style="max-width: 80%; height: auto;">
-  </a>
-</div>
+| ![Sneak Peak 1](../static/sneak_peak_car_map.png)  | ![Sneak Peak 2](../static/sneak_peak_classroom.png) |
+|----------------------------------------------------|-----------------------------------------------------|
+| ![Sneak Peak 3](../static/sneak_peak_monument.png) | ![Sneak Peak 4](../static/sneak_peak_snow.png)      |
 
 ## 📑 Roadmap - What's next?
 
@@ -92,8 +84,8 @@ development, please <a href="https://github.com/zetnex#-roadmap---whats-next">cl
 - [x] **Basic Server Utilities** - Ranks, tags, permissions, player allocator.
 - [x] **Basic Maps** - Main lobby, basic game modes, elements, designs, UI(s)/UX(s).
 - [ ] **Optimization Improvements**
-  - [ ] Enhance proxy performance.
-  - [x] Multi-version support.
+  - [x] Enhance proxy performance.
+  - [ ] Multi-version support.
   - [ ] Reduce server lag.
 - [ ] **Game-Mode Building**
   - [ ] Expand existing game-modes.
@@ -154,7 +146,7 @@ current recruitment.
 
 #### 4. Is there any roadmap publicly available?
 
-Yes, please [click here](https://github.com/zetnex#-roadmap---whats--next) to view it. This roadmap includes all the
+Yes, please [click here](https://github.com/zetnex#-roadmap---whats-next) to view it. This roadmap includes all the
 tasks that were
 completed, as well as the tasks that are remaining to be finished. We weekly update it to ensure that both our GitHub
 audience and
