@@ -1,3 +1,11 @@
+<div style="position: relative; width: 100%;">
+  <a href="https://github.com/zetnex" 
+     style="position: absolute; top: 0; right: 0;">
+    <img src="https://komarev.com/ghpvc/?username=zetnex&label=Visitors&color=0e75b6&style=flat&color=50c878" 
+         alt="Org Visitors">
+  </a>
+</div>
+
 <p align="center">
   <a href="https://github.com/zetnex">
     <img src="/static/logo.png" alt="Zetnex Logo" style="max-width:100%; height:auto;">
@@ -6,6 +14,11 @@
 <p align="center">
   The official GitHub profile for Zetnex Minecraft Server and its affiliates.
 </p>
+
+> [!WARNING]
+> We are currently looking for a few passionate people to join our team.
+> Also, we are looking for collaboration partners who can help us grow our server in the future.
+> Please [click here](https://github.com/ZetNex#recruitment) for more information regarding recruitment.
 
 ----------------------
 
@@ -22,137 +35,138 @@
   <a href="https://github.com/zetnex">
     <img src="https://img.shields.io/github/followers/zetnex?style=flat&logo=github&label=Followers&link=https%3A%2F%2Fgithub.com%2Fzetnex" alt="Zetnex Github Page Followers">
   </a>
-  <a href="https://github.com/orgs/zetnex/discussions">
-    <img src="https://img.shields.io/badge/Zetnex-Contact-orange?style=flat&logo=phone&link=https%3A%2F%2Fgithub.com%2Forgs%2Fzetnex%2Fdiscussions" alt="Zetnex Discussions">
+  <a href="https://github.com/orgs/zetnex/discussions" target="_blank">
+    <img src="https://img.shields.io/badge/Zetnex-Dicussions-white?style=flat&color=%23cb553f&logo=linuxcontainers&logoColor=green&link=https%3A%2F%2Fgithub.com%2Forgs%2FZetNex%2Fdiscussions" alt="Zetnex Discussions">
+  </a>  
+  <a href="https://github.com/zetnex#roadmap---whats--next" target="_blank">
+    <img src="https://img.shields.io/badge/Zetnex-Roadmap-white?logo=roadmapdotsh&logoColor=orange&link=https%3A%2F%2Fgithub.com%2Fzetnex%23roadmap---whats--next" alt="Zetnex Roadmap">
   </a>
 </p>
 
 ----------------------
 
-Welcome to the official GitHub page for Zetnex Organization.
-Here, you can find all the public projects we are currently working on.
-This also includes information about our current roadmap, frequently asked
-questions, and more.
-All questions are welcomed here, and we may try to answer your question as soon as possible. 
-
-Zetnex is currently at **pre-alpha** state of development; that means you would not be able to see much that is publicly
-available at the current moment.
-However, we are constantly working on bringing this server to life, and we are excited to share
-our progress with you.
-Please join our discord server for daily updates.
+<p align="center">
+Welcome to the official GitHub page for Zetnex Minecraft Bedrock Server. We are pleased to have you here.
+Zetnex is currently at **pre-alpha** stage of development; that means you would not be able to see much on out GitHub 
+page yet. However, we are working hard to bring you the best experience in the future, please stay tuned. For current roadmap of
+development, please [click here](https://github.com/zetnex#roadmap---what-is-next). You can also join our discord.
+</p>
 
 ----------------------
 
-## Frequently Asked Questions
-
-### 1. Who are we? What are we doing?
-- We are just a group of passionate developers, builders, and designers who are working on building a Minecraft server,
-where everyone can build belongings, play games, spend time, grind, earn rewards, and at the most, have some fun.
-- Our server is still not released yet; that also means you would not be able to access our public website or any service right now.
-- Our server might take days, weeks, months, and even years to be completed; checking the scale of projects we are taking
-currently.
-
-### 2. Is there a way to officially talk to the owners?
-- Yes, there is.
-Please click on the discord badge above to join our discord server.
-There, you can find all of our staff,
-current community, news, and even sneak peaks.
-- If the discord invite seems invalid, please create a discussion on the organization page.
-We actively review these,
-and we will try to provide you with a new invite link as soon as possible and also update this page.
-
-### 3. Can I contribute to the project?
-- Why not? You can, but you must join the official discord server in the first place to do that.
-- Please check the above question for details on how to join the discord server.
-
-### 4. What is the current state of the project?
-- The current state is weekly updated in the readme by the owners, please scroll down to find the roadmap of Zetnex.
-- Daily updates can be found through the discord server.
-- If you have any questions regarding the current state, please join the discord server.
-
-### 5. Are there going to be any public repositories?
-- Once we finish our current roadmap, we will try to contribute to opensource as well.
-- We are currently working on the main server and are not yet ready to contribute to open-source.
-
-----------------------
-
-## Roadmap - What is Next?
+## 📑 Roadmap - What's next?
 
 > [!IMPORTANT]
-> Updates may not always be reflected here.
+> Updates may not always be reflected here immediately as they occur.
 > For real-time updates, please join our Discord server through the badge above.
 
+#### Foundation (Completed)
+- [x] **Plans** - Infrastructure designs, ideas, concepts.
+- [x] **Identify Ownership** - Zetnex domains, social media, assets.
+- [x] **Team Planning** - Hire developers, builders, designers, moderators, managers.
+- [x] **Presence** - Establish Discord server, smaller advertisements.   
 
-### Phase 1: Foundation (Completed)
-- [x] **Plans** - Infrastructure design, server logic, architecture planning.
-- [x] **Network Ownership** - Secure Zetnex domains, server setup.
-- [x] **Team Acquisition** - Hire developers, builders, and designers.
-- [x] **Presence Development** - Establish Discord server, and website.
-
-### Phase 2: Development (On-Going)
-- [x] **Pre-Alpha Development** - Implement proxy, internal queue systems, and basic network handling.
-- [x] **Internal Systems** - Setting up ranks, tags, permissions, and player management.
-- [x] **Basic Space** - Develop the main lobby, basic game modes, and elements.
+#### Building (Ongoing)
+- [x] **Basic Building Blocks of a Network** - Proxy, internal queue systems, basic network handling, databases, player management.
+- [x] **Basic Server Utilities** - Ranks, tags, permissions, player allocator.
+- [x] **Basic Maps** - Main lobby, basic game modes, elements, designs, UI(s)/UX(s).
 - [ ] **Optimization Improvements**
-    - [ ] Enhance proxy performance.
-    - [x] Implement multi-version support.
-    - [ ] Reduce server lag.
-- [ ] **Game-Mode Development**
-    - [ ] Expand existing game-modes.
-    - [ ] Introduce new gameplay items and mechanisms.
+  - [ ] Enhance proxy performance.
+  - [x] Multi-version support.
+  - [ ] Reduce server lag.
+- [ ] **Game-Mode Building**
+  - [ ] Expand existing game-modes.
+  - [ ] Introduce new gameplay items and mechanisms.
+  - [ ] Introduce varieties of game-modes.
 - [ ] Implement custom server automations.
 
-### Phase 3: Pre-Launch (Upcoming)
+#### Pre-Launch (Upcoming)
 - [ ] **Marketing**
-    - [ ] Creation of Social media networks.
-    - [ ] Promotions with YouTubers, Streamers, and Influencers.
-    - [ ] Implement basic community engagement strategies.
+  - [ ] Expand social media networks.
+  - [ ] Promotion with YouTubers, Streamers, and Influencers.
+  - [ ] Implement basic community engagement strategies.
 - [ ] **Public Beta Release**
-    - [ ] Open servers for initial testing with beta testers.
-    - [ ] Gather feedback and work on critical issues.
-    - [ ] Open the server to the public as a public beta test without restrictions only to beta testers.
-- [ ] **Optimization & Bug Fixes**
-    - [ ] Improve overall server stability.
-    - [ ] Address community-reported issues.
-    - [ ] Implement community ideas.
-- [ ] **Checking for Future In-Stability Fixes**
-    - [ ] Implement better hardware based on the community response.
-    - [ ] Implement software updates to ensure automation works as expected
+  - [ ] Release servers for initial testing with the beta testers.
+  - [ ] Gather feedback and work on issues.
+  - [ ] Release the server to the public as a public beta test without restrictions only to the beta testers.
+- [ ] **Optimization and Fixing Bugs**
+  - [ ] Improve overall server stability.
+  - [ ] Address community-reported issues from the previous public beta test.
+  - [ ] Implement community feedback.
+  - [ ] Implement better hardware based on the community response and prediction.
 - [ ] **Official Public Release - Version 1.0.2 MASTER**
 
-### Phase 4: Post-Launch (Upcoming)*
-- [ ] **Basics - 1-3 Months**
-    - [ ] **Perform a ton of community events.**
-    - [ ] **Implement regular updates.**
-    - [ ] **Implement bug fixes and certain improvements.**
+#### Post-Launch (Upcoming)
+- [ ] **Basics - 1-3 Months After OPR 1.0.2 MASTER**
+  - [ ] **Perform a ton of community events.**
+  - [ ] **Implement regular updates.**
+  - [ ] **Implement bug fixes and certain improvements.**
 
-### What now?
+#### What now?
 
-- After the last phase of our development, i.e., the post-launch phase, we will be working in advance
-server management, potential improvements, participating in giveaways, and more.
-- The exact roadmap after this phase is not yet decided, but we will be working on it as soon as we reach it. Stay tuned.
-- We will be most likely introducing a live chat by this time, for those of you who are unable to join the discord.
+- The roadmap after this point of time is still unknown, since we have not reached the point yet. It is predicted that
+there will be advance implementations on what the community would like based on the response from the release.
+- It is possible that we might change our mind and implement a different TODO list, so please stay tuned for the latest updates.
 
-----------------------
+## 📙 Frequently Asked Questions
 
-## Recruitment
+#### 1. Who are we? What are we doing?
 
-We are currently looking for the following positions:
+We are just a group of passionate developers, builders, and designers who are working on building a Minecraft server,
+where everyone can build belongings, play games, spend time, grind, earn rewards, and at the most, have some fun.
+We are still working on the build, so you might not be able to access most of our services at the moment.
+
+#### 2. How can I talk to the administration team?
+
+You can talk to the administration team by joining our discord server. To do so, please click on the Discord badge at the top
+of the page; you will be redirected automatically. Once you are in, you can start throwing questions by pinging any of the admins.
+
+#### 3. Is there any recruitment going on?
+
+Yes, please [click here](https://github.com/ZetNex#recruitment) to view a more detailed explanation regarding the current recruitment.
+
+#### 4. Is there any roadmap publicly available?
+
+Yes, please [click here](https://github.com/zetnex#roadmap---whats--next) to view it. This roadmap includes all the tasks that were
+completed, as well as the tasks that are remaining to be finished. We weekly update it to ensure that both our GitHub audience and 
+discord audience have the same news brewed up.
+
+#### 5. What if the discord invite link is expired or invalid for some reason? How can I still join the discord server?
+
+We have dedicated a public repository for handling discussions on our page, if the discord invite link is for some reason
+invalid, expired, deleted, or damaged, please [create a new discussion](https://github.com/orgs/zetnex/discussions) and let us know.
+We will reply to you in 3-5 business days or instantly since all events are sent to our discord directly.
+
+#### 6. I want to file a legal complaint, how can I do that?
+
+If there is something that seems wrong to you, please report it immediately by [creating a new discussion](https://github.com/orgs/zetnex/discussions) and choosing
+the "legal" tag. Our team will reply to you within 3-5 business days.
+
+## 📚 Recruitment
+
+The Zetnex team is currently looking for passionate people to join our team. The following criteria must be followed if you are interested in joining our team:
+
+- You must be at least 13 years old, since a majority of our operations are done through Discord, and Discord requires user of age 13 or above.
+- You must be able to communicate properly in English. Other languages are allowed, but English must be the primary language used within the community.
+- You are asked to have a basic understanding of the Minecraft Bedrock Edition, as well as the Minecraft Java Edition, if you are applying for the In-Game Developer Position.
+- You must be able to work in a team by maintaining a healthy collaboration with others.
+
+The following positions are currently open for applications, please refer to the discord server for the latest information:
 
 1. UI/UX Designer - Website, In-Game Items, Catalogs, Assets.
 2. Builder - In-Game Builds, Maps, Structures.
-3. Developer - Python, C++, PHP, Web, Pocketmine-MP, Poggit.
+3. Developer - Python, C++, PHP, Web, Pocketmine-MP, Poggit, Nukkit, Java, C#, C.
 4. Moderator - Discord, In-Game, Forums.
 5. Community Manager - Social Media, Forums, Discord.
-6. Supervisors - In-Game, Discord, Forums.
+6. Supervisor - In-Game, Discord, Forums.
+7. Advisor - Network Advisor, Community Advisor, Hardware Advisor.
 
 Any enquiry regarding the recruitment can be done through the discord server.
 
+#### Collaborations
 
-### Collaborations
-
-We are accepting any of the following content creators to present our server 
- on their social media platforms in the future:
+We are accepting any of the following content creators to present our server
+on their social media platforms in the coming future:
 
 1. YouTubers - At least 500 Subscribers.
 2. Twitch Streamers - At least 500 Followers.
@@ -161,3 +175,7 @@ We are accepting any of the following content creators to present our server
 5. TikTok Influencers - At least 1000 Followers.
 
 Any enquiry regarding the collaborations can be done through the discord server as well.
+
+> [!IMPORTANT]
+> Enquiries can be made through discussions on our GitHub page as well. If you are not comfortable with discord, please feel free to use the discussion tab
+> to create a new discussion and let us know your queries. Please note that this only applies to Collaborations; any Staff Recruitment must be done through discord.
