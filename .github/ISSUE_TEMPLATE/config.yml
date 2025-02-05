@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+- name: Ask questions
+  about: Ask questions through discussions about Zetnex.
+  url: https://github.com/orgs/zetnex/discussions
+- name: Discord Server
+  about: Join our official discord server.
+  url: https://discord.gg/WGvjS7TN7Y
+- name: Zetnex Website
+  about: Visit Zetnex's official site.
+  url: https://zetnex.net/

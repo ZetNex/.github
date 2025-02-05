@@ -184,7 +184,7 @@ information:
 
 1. UI/UX Designer - Website, In-Game Items, Catalogs, Assets.
 2. Builder - In-Game Builds, Maps, Structures.
-3. Developer - Python, C++, PHP, Web, Pocketmine-MP, Poggit, Nukkit, Java, C#, C.
+3. Developer - Python, C++, PHP, Web, Pocketmine-MP, Poggit, C#, C.
 4. Moderator - Discord, In-Game, Forums.
 5. Community Manager - Social Media, Forums, Discord.
 6. Supervisor - In-Game, Discord, Forums.
